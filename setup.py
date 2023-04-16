@@ -4,7 +4,7 @@ setup(
     name='AutoClicker',
     version='1.0',
     packages=[''],
-    url='https://github.com/AayushGithub',
+    url=' ',
     license='',
     author=' ',
     author_email='',
