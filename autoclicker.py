@@ -26,7 +26,7 @@ def on_press(key):
 
 
 def display_controls():
-    print("// AutoClicker for SIS JHU by Aayush Gandhi")
+    print("// AutoClicker for SIS JHU")
     print("// - Settings: ")
     print("\t delay = " + str(delay) + ' sec' + '\n')
     print("// - Controls:")
