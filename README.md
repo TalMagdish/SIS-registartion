@@ -7,5 +7,3 @@ Signs up for classes so you don't have to
 **STILL REQUIRES HUMAN SUPERVISION**
 
 **MIGHT NOT BE LEGAL SO USER DISCRETION IS ADVISED**
-
-## Developed by Aayush Gandhi
